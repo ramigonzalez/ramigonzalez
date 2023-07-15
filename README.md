@@ -7,7 +7,7 @@ Passonate about blockchain technology and how this technology can revolutioniza 
 # Check my CV 
 [👉 HERE](https://bit.ly/cv-ramiro-gonzalez)
 
-# Personal Web3 projects
+# Featured personal Web3 projects
 - ERC20 standard + Vault + Farm + Multi signature
 - ERC721 standard
 - Bridge ERC20 token between Ethereum and Polygon
