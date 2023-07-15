@@ -34,8 +34,8 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
 ## Hackathon's info
 | Place | Hackathon | Project| Repository | POAP |
 | :---: | :---: | :---: | :---: | :---: |
-|🥉| Ethereum SP 23 Hackathon | BeGreen DAO | [Link]() | <img src="https://ipfs.io/ipfs/QmVNc7NWrLKwQJjjmM5KVcQEKUiVpCW1ef9KeEwkKrgxSM/pop.png" width="100" height="100"> 
-|🥈| Ethereum Samba 23 Hackathon | FuelMe (Fuel category) | [Link](https://github.com/ramigonzalez/eth-samba-fuelme-app) | <img src="https://ipfs.io/ipfs/Qma5ne9ikHWn6va9VXx34HPW3hsbNR1BbLMvWrZeVRopcD/pop.png" width="100" height="100">
+|🥉| Ethereum SP 23 Hackathon    | BeGreen DAO            | [Link](https://github.com/ramigonzalez/begreen-dao)           | <img src="https://ipfs.io/ipfs/QmVNc7NWrLKwQJjjmM5KVcQEKUiVpCW1ef9KeEwkKrgxSM/pop.png" width="100" height="100"> |
+|🥈| Ethereum Samba 23 Hackathon | FuelMe (Fuel category) | [Link](https://github.com/ramigonzalez/eth-samba-fuelme-app)  | <img src="https://ipfs.io/ipfs/Qma5ne9ikHWn6va9VXx34HPW3hsbNR1BbLMvWrZeVRopcD/pop.png" width="100" height="100"> |
 
 ## Contact me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-gonzalez/)
