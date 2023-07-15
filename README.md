@@ -1,8 +1,7 @@
 #  🖐 Welcome to my Github profile!
 
 ## About me
-I'm Ramiro Gonzalez, 31 years old, Uruguayan men living in Florianopolis Brazil. Working remotly for The Sandbox. Recently graduated as Software Engineer at ORT Uruguay University. 
-Passionate about blockchain technology and how it can revolutionize the world.
+I'm Ramiro Gonzalez, 31 years old, Uruguayan men living in Florianopolis Brazil. Currently working remotely at The Sandbox. Recently graduated as Software Engineer at ORT Uruguay University. Passionate about blockchain technology and how it can revolutionize the world.
 
 For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzalez)
 
@@ -12,7 +11,7 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
   - 🥉 Ethereum SP 23 Hackathon - 3rd place with BeGreen DAO
   - 🥈 Ethereum Samba 23 Hackathon - 2nd place with FuelMe in Fuel category
 - 👨‍🎓 Graduated as Software Engineer on December '22
-- 📚 Published a research thesis titled Early stage in the software startups - [Go to document]([url](https://dspace.ort.edu.uy/handle/20.500.11968/4825))
+- 📚 Published a research thesis titled Early stage in the software startups - [Go to document](https://dspace.ort.edu.uy/handle/20.500.11968/4825)
 
 ## Featured personal Web3 projects
 - Bridge ERC20 token between Ethereum and Polygon  - [Go to repo]()
