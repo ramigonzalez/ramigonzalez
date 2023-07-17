@@ -13,11 +13,12 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
 - 👨‍🎓 Graduated as Software Engineer on December '22
 - 📚 Published a research thesis titled Early stage in the software startups - [Go to document](https://dspace.ort.edu.uy/handle/20.500.11968/4825)
 
-## Featured personal Web3 projects
+## Featured personal projects
 - Exchange in Ethereum & bridge to Polygon an ERC20 token - [Go to repo](https://github.com/ramigonzalez/erc20-exchange-and-bridge)
 - ERC20 standard + Vault + Farm + Multi signature
 - ERC721 standard
-
+- Tutorials backend challenge - [Go to repo](https://github.com/ramigonzalez/tutorials-backend-challenge)
+  
 ## Hard Skills:
 ![Solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Nodejs-323330?style=for-the-badge&logo=nodedotjs&logoColor=green) 
