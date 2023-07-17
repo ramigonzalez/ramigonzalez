@@ -3,7 +3,7 @@
 ## About me
 I'm Ramiro Gonzalez, 31 years old, Uruguayan men living in Florianopolis Brazil. Currently working remotely at The Sandbox. Recently graduated as Software Engineer at ORT Uruguay University. Passionate about blockchain technology and how it can revolutionize the world.
 
-For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzalez-final-missing-links)
+For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzalez-final-1)
 
 ## Key achievements
 - 🚀 Launched self publish experience pages & launching experiences at The Sandbox - [See post](https://www.linkedin.com/posts/ramiro-gonzalez_the-metaverse-is-starting-to-open-activity-7085340249630945280-IDXC?utm_source=share&utm_medium=member_desktop)
