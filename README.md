@@ -3,7 +3,7 @@
 ## About me
 I'm Ramiro Gonzalez, 31 years old, Uruguayan men living in Florianopolis Brazil. Currently working remotely at The Sandbox. Recently graduated as Software Engineer at ORT Uruguay University. Passionate about blockchain technology and how it can revolutionize the world.
 
-For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzalez)
+For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzalez-final-missing-links)
 
 ## Key achievements
 - 🚀 Launched self publish experience pages & launching experiences at The Sandbox - [See post](https://www.linkedin.com/posts/ramiro-gonzalez_the-metaverse-is-starting-to-open-activity-7085340249630945280-IDXC?utm_source=share&utm_medium=member_desktop)
@@ -14,10 +14,9 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
 - 📚 Published a research thesis titled Early stage in the software startups - [Go to document](https://dspace.ort.edu.uy/handle/20.500.11968/4825)
 
 ## Featured personal Web3 projects
-- Bridge ERC20 token between Ethereum and Polygon  - [Go to repo]()
-- Exchange ERC20 tokens in Ethereum - Swap ERC20 and ETH - [Go to repo]()
-- ERC20 standard + Vault + Farm + Multi signature - [Go to repo]()
-- ERC721 standard - [Go to repo]()
+- Exchange in Ethereum & bridge to Polygon an ERC20 token - [Go to repo](https://github.com/ramigonzalez/erc20-exchange-and-bridge)
+- ERC20 standard + Vault + Farm + Multi signature
+- ERC721 standard
 
 ## Hard Skills:
 ![Solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=white)
