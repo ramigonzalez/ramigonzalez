@@ -14,9 +14,10 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
 - 📚 Published a research thesis titled Early stage in the software startups - [Go to document](https://dspace.ort.edu.uy/handle/20.500.11968/4825)
 
 ## Featured personal projects
-- Exchange in Ethereum & bridge to Polygon an ERC20 token - [Go to repo](https://github.com/ramigonzalez/erc20-exchange-and-bridge)
-- Exchange & Staking $NTP (ERC20 token) platform - [Go to repo](https://github.com/ramigonzalez/staking-platform) 
-- ERC721 standard
+- Exchange in Ethereum & bridge to Polygon an ERC20 token Dapp - [Go to repo](https://github.com/ramigonzalez/erc20-exchange-and-bridge)
+- Exchange & staking $NTP (ERC20 token) platform (Only Solidity) - [Go to repo](https://github.com/ramigonzalez/staking-platform) 
+- Swap NFTs in a marketplace *(Repo coming soon)*
+- Lands tokenization, ERC721 standard fundamentals *(Repo coming soon)*
 - Tutorials backend challenge - [Go to repo](https://github.com/ramigonzalez/tutorials-backend-challenge)
   
 ## Hard Skills:
