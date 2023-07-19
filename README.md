@@ -29,7 +29,7 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
 ![ReactJs](https://img.shields.io/badge/-React.js-323330?style=for-the-badge&logo=react&labelColor=323330) 
 
 ## Top languajes in personal projects
-[![Top Langs](https://github-readme-stats-ramigonzalez.vercel.app/api/top-langs/?username=ramigonzalez&hide=css,html&layout=compact&langs_count=4&custom_title=Top%20languajes%20in%20personal%20projects&card_width=350&theme=dark#gh-dark-mode-only)](https://github.com/ramigonzalez/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-ramigonzalez.vercel.app/api/top-langs/?username=ramigonzalez&hide=c%2B%2B,css,html&layout=compact&langs_count=4&custom_title=Top%20languajes%20in%20personal%20projects&card_width=350&theme=dark#gh-dark-mode-only)](https://github.com/ramigonzalez/github-readme-stats#gh-dark-mode-only)
 
 ## Hackathon's info
 | Place | Hackathon | Project| Repository | POAP |
