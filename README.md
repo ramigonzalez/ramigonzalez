@@ -15,7 +15,7 @@ For more details, plase check my CV [👉 here](https://bit.ly/cv-ramiro-gonzale
 
 ## Featured personal projects
 - Exchange in Ethereum & bridge to Polygon an ERC20 token - [Go to repo](https://github.com/ramigonzalez/erc20-exchange-and-bridge)
-- ERC20 standard + Vault + Farm + Multi signature
+- Staking $NTP (ERC20 token) platform - [Go to repo](https://github.com/ramigonzalez/staking-platform) 
 - ERC721 standard
 - Tutorials backend challenge - [Go to repo](https://github.com/ramigonzalez/tutorials-backend-challenge)
   
